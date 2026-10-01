@@ -1,3 +1,4 @@
+
 # Asistente local inteligente para la gestión de tickets de parqueaderos y plataforma web de pagos en línea
 
 Sep 30, 2026 · @casanova
